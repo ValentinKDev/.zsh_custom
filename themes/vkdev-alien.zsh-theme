@@ -113,3 +113,4 @@ precmd(){
 #PROMPT='%{$fg[cyan]%}%B|%{$fg[yellow]%}>%{$fg[cyan]%}%(?.:.%{$fg[magenta]%}X)%b%{$fg[yellow]%}%B<$fg[cyan]%}|  %b%{$reset_color%}'
 
 PROMPT=$INSERT_PROMPT
+
